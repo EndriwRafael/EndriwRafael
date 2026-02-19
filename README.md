@@ -1,8 +1,8 @@
 ### Olá, eu sou o Endriw Rafael 👋
 
 
-- 🔭 Atualmente estudando Engenharia de Petróleo!
-- 🌱 No momento estou aprendendo Python!
+- 🔭 Formado em Engenharia de Petróleo!
+- 🌱 Mestrado em Engenharia Mecânica e Materiais em desenvolvimento!
 - 🤔 Buscando ajuda e conhecimento nas áreas de programação!
 - 📫 Entre em contato: endriwrafaell@gmail.com
 
